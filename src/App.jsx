@@ -1,5 +1,5 @@
 import { motion, useReducedMotion } from "motion/react";
-import NavBar from "./components/NavBar";
+import NavBar from "./components/Navbar.jsx";
 import dataImage, { listTools, listProyek } from "./data";
 
 const skills = [
